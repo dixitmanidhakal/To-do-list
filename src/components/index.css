@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: antiquewhite;
+}
+
+.input-box {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+}
+
+.edit-delete {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.save {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+}
+
+.input {
+  width: 300px;
+  height: 40px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+li {
+  font-weight: bold;
+  font-size: 30px;
+  margin: 10px;
+  padding: 8px;
+}
+
+button {
+  width: 40px;
+  height: 30px;
+  font-size: 16px;
+}
+
+.btn-btn-plus {
+  width: 50px;
+  height: 40px;
+  margin: 20px;
+}
+
+.btn-btn-edit {
+  margin: 20px;
+}
+
+.btn-btn-save {
+  width: 40px;
+  height: 40px;
+  margin: 20px;
+}
+
+.input-save {
+  width: 200px;
+  height: 40px;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
